@@ -1,20 +1,15 @@
 {
-  "skill_id": "skill-ovos-ip.openvoiceos",
-  "source": "https://github.com/OpenVoiceOS/skill-ovos-ip",
-  "name": "Device IP Address",
-  "description": "Network connection information",
+  "skill_id": "skill-ovos-thermex.openvoiceos",
+  "source": "https://github.com/tgc-dk/ovos-skill-thermex",
+  "name": "Thermex Extraction Hood control",
+  "description": "Control Thermex Extraction hoods",
   "examples": [
-    "What's your network address?",
-    "What's your IP address?",
-    "Tell me your IP address",
-    "Tell me your network address",
-    "What network are you connected to?"
+    "Turn on the extraction hood",
+    "Turn off the extraction hood",
   ],
   "tags": [
-    "IP-address",
-    "IPaddress",
-    "network-address",
-    "network",
-    "system"
+    "Thermex",
+    "Hood",
+    "Extraction Hood"
   ]
 }

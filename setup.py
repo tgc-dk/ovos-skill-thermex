@@ -4,9 +4,9 @@ from os.path import abspath, dirname, join, isfile, isdir
 from os import walk, environ
 
 # Define package information
-SKILL_CLAZZ = "IPSkill"  # Make sure it matches __init__.py class name
-URL = "https://github.com/OpenVoiceOS/ovos-skill-ip"
-AUTHOR = "OpenVoiceOS"
+SKILL_CLAZZ = "ThermexSkill"  # Make sure it matches __init__.py class name
+URL = "https://github.com/tgc-dk/ovos-skill-thermex"
+AUTHOR = "tgc-dk"
 EMAIL = ""
 LICENSE = "Apache2.0"
 DESCRIPTION = SKILL_CLAZZ  # TODO

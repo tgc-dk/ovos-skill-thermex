@@ -1,2 +1,2 @@
-ifaddr
+aiohttp
 ovos-workshop

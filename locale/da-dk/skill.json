@@ -1,20 +1,14 @@
 {
-  "skill_id": "skill-ovos-ip.openvoiceos",
-  "source": "https://github.com/OpenVoiceOS/skill-ovos-ip",
-  "name": "Enhedens IP-adresse",
-  "description": "Oplysninger om netværksforbindelse",
+  "skill_id": "skill-ovos-thermex.openvoiceos",
+  "source": "https://github.com/tgc-dk/ovos-skill-thermex",
+  "name": "Thermex Extraction Hood control",
+  "description": "Kontroller Thermex Emhætter",
   "examples": [
-    "Hvad er din netværksadresse?",
-    "Hvad er din IP-adresse?",
-    "Fortæl mig din IP-adresse",
-    "Fortæl mig din netværksadresse",
-    "Hvilket netværk er du tilsluttet?"
+    "Tænd for emhætte",
+    "Sluk for emhætte"
   ],
   "tags": [
-    "IP-adresse",
-    "IP-adresse",
-    "netværksadresse",
-    "netværk",
-    "system"
+    "Thermex",
+    "emhætte"
   ]
 }
